@@ -1,2 +1,2 @@
 # ola-mundo
-Este repositório é para trenamento para o uso do Github
+Este repositório é um trenamento para o uso do Github
